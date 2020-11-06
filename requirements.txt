@@ -6,7 +6,7 @@ chardet==3.0.4
 defusedxml==0.6.0
 idna==2.10
 isodate==0.6.0
-keyring==24.4.0
+keyring==21.4.0
 logging==0.4.9.6
 lxml==4.4.2
 progress==1.5
