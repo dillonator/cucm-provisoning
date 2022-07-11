@@ -1,4 +1,6 @@
 # cucm-provisoning
+ExMoBulkLogout.py can be used for logging out all phones from extension mobility.
+
 Python/AXL/Zeep script for phone build automation.
 Tested on CUCM 11.5
 
